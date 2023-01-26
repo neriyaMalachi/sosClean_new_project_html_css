@@ -1,0 +1,101 @@
+body{
+    background-color: rgba(78, 235, 91, 0.884);
+}.allPropertis{
+
+ 
+ width: 100%;
+ height: 1800px;
+ background-image: url("/project/public/images/clothes.jpg");
+ background-repeat:no-repeat;
+ background-size: 100% 20%;
+color:rgb(124, 226, 124);
+
+}.allPropertis h1{
+    margin-top:-25px;
+    margin-left: 10%;
+}.main{
+    background-color: rgba(78, 235, 91, 0.884);
+    width: 100%;
+    height: 1850px;
+    color: rgb(250, 250, 250);
+   
+}.soops{
+    width: 1400px;
+    height: 100%;
+    background-color: rgba(78, 235, 91, 0.884);
+    text-align: center;
+    justify-content: center;
+    margin-top: 6.9%;
+    max-width: 50%;
+    margin-left: 20%;
+}.soopBd{
+ margin-top: 20%;
+background-image: url("/project/public/images/action/p6.webp");
+background-repeat: no-repeat;
+background-size: 100% 100%;
+}.soopOhr{
+margin-top: 20%;
+background-image: url("/project/public/images/soopOr.jpg");
+background-repeat: no-repeat;
+background-size: 100% 100%;
+
+}.mattress{
+
+    margin-top: 20%;
+    background-image: url("/project/public/images/imagesForGalery/mattress.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: black;
+}.rugs{
+    
+    margin-top: 18.5%;
+    background-image: url("/project/public/images/rugs.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color:black;
+}.logo{
+
+    margin-left: 1247px;
+    padding-bottom: 110px;
+  
+    }#logo{
+    
+    width: 103px;
+    height: 90px;
+    position: fixed;
+    
+    }#logo:hover{
+        cursor: pointer;
+    }.buttonOfGhob{
+    background-color: rgb(14, 14, 17);
+    color: white;
+}.placesForGhob{
+    color: white;
+
+}.divOfplacesForGhob{
+    width: 100%;
+    height: 300px;
+    background-color:black;
+   display: flex;
+   justify-content: space-around;
+}.divOfplacesForGhob img{
+    width: 70%;
+    height: 80%;
+   
+    margin-left: 100px;
+}.iconwhatsapp{
+    width: 100%;
+    height: 200px;
+    background-color: black;
+    color: white;
+    margin-top: 0%;
+    display: flex;
+  justify-content: center;
+    
+}.tocing{
+    margin: 40px;
+    color: blue;
+}.tocing :hover{
+   
+    color: white;
+}

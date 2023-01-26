@@ -1,0 +1,126 @@
+.navigationBar{
+    margin: 0%;
+    width:100% ;
+    height: 90px;
+    background-color: rgba(124, 124, 30, 0.37);
+    /* position:fixed; */
+    display: flex;
+
+}.buttonOfNavigationBar{
+    
+    width: 16%;
+    height: 100%;
+    background-color: rgba(241, 241, 241, 0);
+    border: none;
+    font-style: oblique;
+    font-size: large;
+    text-shadow: 1px 1px;
+    text-decoration-line: underline; 
+}.buttonOfNavigationBar:hover {
+
+cursor: pointer;
+transition: 2000ms;
+}.buttonOfNavigationBar a{
+color:black;
+}.bootuns{
+  
+    width: 49%;
+    padding: 10px;
+}.serviceHours{
+margin: 10px;
+font-size:30px;
+
+}#logo{
+margin-left: 3%;
+width: 103px;
+height: 90px;
+position: fixed;
+
+}#logo:hover{
+    cursor: pointer;
+}.main{
+width: 100%;
+height: 650px;
+background: #CDCE5C;
+background: -moz-linear-gradient(-45deg, #CDCE5C 0%, #8BA49E 50%, #B1BDC5 100%);
+background: -webkit-linear-gradient(-45deg, #CDCE5C 0%, #8BA49E 50%, #B1BDC5 100%);
+background: linear-gradient(135deg, #CDCE5C 0%, #8BA49E 50%, #B1BDC5 100%);
+justify-content: center;
+display: flex;
+
+
+}.divOfButoons{
+    margin-top:5px;
+    width: 50%;
+    height: 650px;
+    text-align: center;
+    justify-content: center;
+    
+}.botuns{
+    width: 70%;
+    height: 100px;
+    border-radius: 50%;
+    background-color:  rgba(70, 230, 136, 0.74);
+    font-size: x-large;
+    font-style:normal;
+    text-align: center;
+    margin: 5%;
+    justify-content: center;
+    border: none;
+
+
+}.botuns:hover{
+    background-color:rgba(95, 143, 95, 0.445);
+    
+}.returnOfHome{
+   
+width: 670px;
+height: 500px;
+justify-self:end;
+
+text-align: end;
+justify-content: end;
+display: flex;
+}.butoonreturnOfHome{
+    color: black;
+   width: 50%;
+   height: 100px;
+   border-radius: 50%;
+   background-color:rgba(0, 0, 255, 0.13);
+   font-size: x-large;
+   font-style:normal;
+   text-align: center;
+   margin-top: 50%;
+   justify-content: center;
+  
+}.iconwhatsapp{
+    width: 100%;
+    height: 200px;
+    background-color: black;
+    color: white;
+   
+    display: flex;
+  justify-content: center;
+    
+}.tocing{
+    margin: 40px;
+    color: blue;
+}.tocing :hover{
+   
+    color: white;
+}.placesForGhob{
+    color: white;
+
+}.divOfplacesForGhob{
+    width: 100%;
+    height: 300px;
+    background-color:black;
+   display: flex;
+   justify-content: space-around;
+}.divOfplacesForGhob img{
+    width: 70%;
+    height: 80%;
+   
+    margin-left: 100px;
+}
+

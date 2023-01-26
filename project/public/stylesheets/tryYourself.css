@@ -1,0 +1,131 @@
+body{
+    margin: 0%;
+}.allPropertise{
+    min-width: 100%;
+    min-height: 4750px;
+    background-color: yellowgreen;
+}
+
+.navigationBar{
+    margin: 0%;
+    width:100% ;
+    height: 90px;
+    background-color: rgba(124, 124, 30, 0.37);
+    /* position:fixed; */
+    display: flex;
+
+}.buttonOfNavigationBar{
+    
+    width: 16%;
+    height: 100%;
+    background-color: rgba(241, 241, 241, 0);
+    border: none;
+    font-style: oblique;
+    font-size: large;
+    text-shadow: 1px 1px;
+    text-decoration-line: underline; 
+}.buttonOfNavigationBar:hover {
+/* font-size: 20px; */
+cursor: pointer;
+transition: 2000ms;
+}.buttonOfNavigationBar a{
+color:black;
+}.bootuns{
+  
+    width: 49%;
+    padding: 10px;
+}.serviceHours{
+    margin: 10px;
+    
+    }.logo{
+    
+    background-color: blue;
+    
+    }#logo{
+    
+    width: 103px;
+    height: 90px;
+    position: fixed;
+    margin-left: 11%;
+    
+    }#logo:hover{
+        cursor: pointer;
+    }#text1{
+        margin-left: 35%;
+        width: 60%;
+    background-color: rgba(255, 255, 255, 0.473);
+    text-align: center;
+    }#text2{
+        height:300px;
+        margin-left: 5%;
+        width: 60%;
+    background-color: rgba(255, 255, 255, 0.473);
+    
+    
+    }#text3{
+        margin-left: 35%;
+        width: 60%;
+    background-color: rgba(255, 255, 255, 0.473);
+    text-align: center;
+    }#text4{
+        margin-left: 5%;
+        width: 60%;
+    background-color: rgba(255, 255, 255, 0.473);
+    text-align: center;
+    }.text{
+        width: 650px;
+        margin-left: 10%;
+        font-size: larger;
+    }img{
+       margin-left: 10%;
+       height: 400px;
+    }.action{
+        border: 2px solid;
+        margin: 7px;
+        background-color: rgb(170, 204, 103);
+        text-align: center;
+        
+    }.action h3{
+        width: 60%;
+        margin-left: 25%;
+    }#butoonOfSoftness{
+
+        background-color: yellow;
+        width: 40%;
+        height: 70px;
+        font-size: x-large;
+        border-radius: 50%;
+        margin-left: 30%;
+      
+    }.iconwhatsapp{
+        width: 100%;
+        height: 200px;
+        background-color: black;
+        color: white;
+        display: flex;
+      justify-content: center;
+        
+    }.tocing{
+        margin: 40px;
+        color: blue;
+    }.tocing :hover{
+       
+        color: white;
+    }.placesForGhob{
+        color: white;
+    
+    }.divOfplacesForGhob{
+        width: 100%;
+        height: 300px;
+        background-color:black;
+       display: flex;
+       justify-content: space-around;
+    }.divOfplacesForGhob img{
+        width: 70%;
+        height: 70%;
+       
+        margin-left: 100px;
+    }
+    
+    
+    

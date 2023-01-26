@@ -1,0 +1,99 @@
+body{
+    margin:0%;
+    
+}.allPropertise{
+    width: 100%;
+    height: 625px;
+    background-image:url(/project/public/images/imagesForGalery/contactBackgraund.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align: center;
+}
+.buttonDiv button{
+    width: 50%;
+    height: 70px;
+    border-radius: 30%;
+    font-size: x-large;
+background-color: rgba(192, 192, 192, 0.644);
+margin-top: 15%;
+
+}
+.allPropertise p{
+    font-size:xx-large;
+}.buttonDiv{
+   width: 50%;
+    height: 350px;
+   margin-left: 25%;
+}.navigationBar{
+    margin: 0%;
+    width:100% ;
+    height: 90px;
+    background-color: rgba(124, 124, 30, 0.37);
+    /* position:fixed; */
+    display: flex;
+
+}.buttonOfNavigationBar{
+    
+    width: 16%;
+    height: 100%;
+    background-color: rgba(241, 241, 241, 0);
+    border: none;
+    font-style: oblique;
+    font-size: large;
+    text-shadow: 1px 1px;
+    text-decoration-line: underline; 
+}.buttonOfNavigationBar:hover {
+/* font-size: 20px; */
+cursor: pointer;
+transition: 2000ms;
+}.buttonOfNavigationBar a{
+color:black;
+}.bootuns{
+  
+    width: 49%;
+    padding: 10px;
+}.serviceHours{
+margin: 10px;
+
+}.logo{
+
+background-color: blue;
+
+}#logo{
+
+width: 103px;
+height: 90px;
+position: fixed;
+margin-left: 11.5%;
+}#logo:hover{
+    cursor: pointer;
+}.iconwhatsapp{
+    width: 100%;
+    height: 200px;
+    background-color: black;
+    color: white;
+ 
+    display: flex;
+  justify-content: center;
+    
+}.tocing{
+    margin: 40px;
+    color: blue;
+}.tocing :hover{
+   
+    color: white;
+}.placesForGhob{
+    color: white;
+
+}.divOfplacesForGhob{
+    width: 100%;
+    height: 250px;
+    background-color:black;
+   display: flex;
+   justify-content: space-around;
+}.divOfplacesForGhob img{
+    width: 70%;
+    height: 70%;
+   
+    margin-left: 100px;
+}

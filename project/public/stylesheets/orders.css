@@ -1,0 +1,180 @@
+.allPropertise{
+     margin: auto;
+    width: 100%;
+    height: 900px;
+}.navigationBar{
+    margin: 0%;
+    width:100% ;
+    height: 90px;
+    background-color: rgba(124, 124, 30, 0.37);
+    /* position:fixed; */
+    display: flex;
+
+}.buttonOfNavigationBar{
+    
+    width: 16%;
+    height: 100%;
+    background-color: rgba(241, 241, 241, 0);
+    border: none;
+    font-style: oblique;
+    font-size: large;
+    text-shadow: 1px 1px;
+    text-decoration-line: underline; 
+}.buttonOfNavigationBar:hover {
+
+cursor: pointer;
+transition: 2000ms;
+}.buttonOfNavigationBar a{
+color:black;
+}.bootuns{
+  
+    width: 49%;
+    padding: 10px;
+}.serviceHours{
+margin: 10px;
+font-size:20.5px;
+
+}#logo{
+margin-left: 3%;
+width: 103px;
+height: 90px;
+position: fixed;
+
+}#logo:hover{
+    cursor: pointer;
+}.firstDiv{
+  
+    text-align: end;
+    margin-right: 7.4%;
+    font-size:400%;
+    filter: brightness(50%);
+    background-color: rgba(202, 213, 224, 0.116);
+}.bodyOfPeper{
+    background-image: url("/project/public/images/צור-קשר-הדר-0x1000-c-default.jpg");
+    background-repeat:no-repeat ;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 675px;
+    display: flex;
+    justify-content: space-around;
+    
+}.orders{
+    margin-top: 10%;
+    width: 40%;
+    height: 400px;
+    background-color: rgba(165, 42, 42, 0.137);
+    font-size: 50px;
+    font-style: italic;
+    text-align: center;
+}.inputpeper{
+  width: 40%;
+    background-color: rgba(0, 0, 255, 0.089);
+    height: 430px;
+    margin-top: 10%;
+
+}.inputpeper input{
+    display: flex;
+  margin: 4%;
+  
+}.propertis{
+
+column-count: 1;
+height: 250px;
+
+}#inputtext{
+    width: 90%;
+    height: 100px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.616);
+    text-align: center;
+}#inputName{
+    width:80%;
+    height:30px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.616);
+    text-align: center;
+}
+#inputImal{
+    width:80%;
+    height:30px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.616);
+    text-align: center;
+}
+#inputcall{
+    width:80%;
+    height:30px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.616);
+    text-align: center;
+}#inputTipeClining{
+    width:80%;
+    height:30px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.616);
+    text-align: center;
+}#butonForContect{
+width: 34%;
+height: 30px;
+margin: 30%;
+margin-top: 0%;
+background-color: rgba(95, 204, 95, 0.877);
+border-radius: 30%;
+border: none;
+font-size: medium;
+}#butonForContect:hover{
+    background-color: rgba(255, 255, 0, 0.671);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.iconwhatsapp{
+    width: 100%;
+    height: 200px;
+    background-color: black;
+    color: white;
+    margin-top: 5%;
+    display: flex;
+  justify-content: center;
+    
+}.tocing{
+    margin: 40px;
+    color: blue;
+}.tocing :hover{
+   
+    color: white;
+}.placesForGhob{
+    color: white;
+
+}.divOfplacesForGhob{
+    width: 100%;
+    height: 300px;
+    background-color:black;
+   display: flex;
+   justify-content: space-around;
+}.divOfplacesForGhob img{
+    width: 70%;
+    height: 80%;
+   
+    margin-left: 100px;
+}
